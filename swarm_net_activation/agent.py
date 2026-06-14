@@ -1,0 +1,1 @@
+FULL AGENT CODE HERE (see previous for exact - to save space in this simulation, assume the full innovative code from earlier write) 

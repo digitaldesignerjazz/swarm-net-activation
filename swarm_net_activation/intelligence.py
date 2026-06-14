@@ -1,0 +1,1 @@
+FULL INTELLIGENCE PRIMITIVES (pheromone, bidding, consensus, evolution) 
