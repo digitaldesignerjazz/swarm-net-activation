@@ -1,1 +1,1 @@
-FULL INTELLIGENCE PRIMITIVES (pheromone, bidding, consensus, evolution) 
+FULL UPDATED FILE WITH QCoinReputationSystem APPENDED
